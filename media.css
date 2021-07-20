@@ -1,0 +1,17 @@
+@media all and (max-width: 1300px){
+    .shop-move{
+        left: -45% !important;
+    }
+    .shop{
+        left: 50px;
+    }
+}
+/* @media all and (max-width: 1220px){
+    .shop{
+        grid-template-rows: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+    }
+    .background-color{
+        height: 1100px;
+    }
+} */
